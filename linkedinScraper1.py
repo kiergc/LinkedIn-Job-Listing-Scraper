@@ -6,7 +6,7 @@ import pandas as pd
 
 
 k_job_lst = ["data specialist", "data analyst", "data scientist", "machine learning engineer", "artificial intelligence"]
-k_loc_lst = ["san francisco bay area", "san jose", "marin", "oakland", "palo alto", "mountain view"]
+k_loc_lst = ["san francisco bay area", "san francisco", "san jose", "marin", "oakland", "palo alto", "mountain view"]
 k_url_lst = []
 
 i_job_lst = ["fullstack", "full stack", "frontend", "software engineer"]
